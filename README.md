@@ -10,7 +10,9 @@ http://www.cs.rochester.edu/research/epilog/
 There are three members in this group.
 
 1.Yupeng Gou
+
 2.Zining Wen
+
 3.Haosen Wen
 
 We have devloped a simple item recommend system with the help of EPI2.
@@ -19,13 +21,14 @@ Then the system would give your a probability how you could buy it again.
 
 It works on the pure logic, for example:
 If you bought a burger and you are happy, it could judge that you dont care weight, and would recommend you more junk food.
+
 If you bought a burger and you are not happy, it could judge that you care weight and may need more exercise, so it would recommend you some exercise equipment.
 
 This is rather a simple system, it could only support 19 items and 5 conditions.
-
 To experience, EPI2 and lisp is required.
 
 Yupeng Gou
+
 University of Rochester
 
 Instructions:
