@@ -31,7 +31,7 @@ Yupeng Gou
 
 University of Rochester
 
-Instructions:
+#Instructions:
 1.we have added some more predicates and terms to the epilog knowledge base. So please replace the orgin version of el-lexicon.lisp file by the el-lexicon.lisp is our package before you try to use our system.
 
 
